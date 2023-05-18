@@ -1,5 +1,3 @@
-Thank you for the clarification. Here's an updated version of the readme file based on your description:
-
 # React-Redux-Django Template
 
 This project is a template for building a full-stack web application using React, Redux, and Django. The template includes functionality for user authentication and product full-CRUD operations. 
